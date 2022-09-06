@@ -1,0 +1,1 @@
+{"uuid":"152ac91d-1df4-4c31-8bc5-399d28d67e97","name":"CustomSeleniumFramework","children":["d37bca01-e7b2-4120-bacf-bce4731cf4d4"],"befores":[{"name":"SetupDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662366047471,"stop":1662366050717}],"afters":[],"start":1662366047453,"stop":1662366053172}

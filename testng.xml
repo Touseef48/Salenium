@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/home/touseef/Salenium/src/main/java/TestCases/Login.java"><classes><class name="TestCases.Login"><methods><include name="LoginSwagLabs"/><include name="LoginSuccess"/><include name="LoginFailure"/></methods></class></classes></test></suite>
